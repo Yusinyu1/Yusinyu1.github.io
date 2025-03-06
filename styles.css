@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(233, 233, 233);
+    background-image: ("img-laptop.jpg");
+    background-position: right top;
+    background-repeat: no-repeat;
+}
+.header {
+    padding: 20px;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    }
+.container-1 {
+background-color: white;
+float: left;
+}
+h5 {
+    color: blue;
+}
+.container-2 {
+    background-color: white;
+    float: center;
+    padding: 1px;
+}
+.container-3 {
+    background-color: white;
+    float: center;
+    padding: 1px;
+}
+.container-4 {
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+.signup-btn {
+    color: black;
+    background-color: #ffcc00;
+    border-radius: 15px;
+    font-weight: bold ;
+    padding: 5px;
+}
+.container-5 {
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+footer {
+    background-color: black;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
